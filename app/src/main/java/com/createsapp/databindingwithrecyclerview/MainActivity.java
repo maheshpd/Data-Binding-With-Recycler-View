@@ -19,7 +19,6 @@ public class MainActivity extends AppCompatActivity {
 
 //        RecyclerView recyclerView = findViewById(R.id.recyclerView);
 
-        //Comment
 
         ActivityMainBinding activityMainBinding = ActivityMainBinding.inflate(getLayoutInflater());
         setContentView(activityMainBinding.getRoot());
